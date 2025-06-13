@@ -34,10 +34,15 @@ The program starts by loading saved data (if any) from journal.json.
 If no journal is found, it prompts for your name to create a new profile.
 
 Use the menu to:
+
 1.Add a journal entry
+
 2.View past entries
+
 3.Analyze moods over the week
+
 4.Export to a .txt file
+
 5.Save your progress manually
 
 
